@@ -1,1 +1,11 @@
-
+{
+  "schema_version": 1,
+  "registrations": [
+    {
+      "vin": "TESTVIN12345678901",
+      "hardware_device_id": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-06-22T17:22:21.217419+05:00"
+    }
+  ]
+}
