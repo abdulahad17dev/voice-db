@@ -8,6 +8,14 @@
       "client": "",
       "model": "Leapmotor",
       "registered_at": "2026-06-22T17:45:03.256107+05:00"
+    },
+    {
+      "hash": "LDP45G962SD169609",
+      "vin": "LDP45G962SD169609",
+      "phone": "1328391313131031",
+      "client": "",
+      "model": "BYD",
+      "registered_at": "2026-06-22T17:45:42.720005+05:00"
     }
   ]
 }
