@@ -16,6 +16,14 @@
       "client": "",
       "model": "BYD",
       "registered_at": "2026-06-22T17:45:42.720005+05:00"
+    },
+    {
+      "hash": "35054fd914948cbaf92ac54d9c12a7d1c66c2b1bcff2bcc4ef432e125906571c",
+      "vin": "LS6C3E2T2SF039142",
+      "phone": "1829393939333",
+      "client": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-06-22T18:35:03.703909+05:00"
     }
   ]
 }
