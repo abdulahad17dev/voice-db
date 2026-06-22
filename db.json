@@ -1,4 +1,13 @@
 {
   "schema_version": 2,
-  "registrations": []
+  "registrations": [
+    {
+      "hash": "b11a52d5e97b971b6c9445e67141b848d85ab42c87442a6eb7f1dcc258b3864c",
+      "vin": "LDP45G962SD169608",
+      "phone": "892310923109234",
+      "client": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-06-22T17:45:03.256107+05:00"
+    }
+  ]
 }
