@@ -1,4 +1,13 @@
 {
   "schema_version": 2,
-  "registrations": []
+  "registrations": [
+    {
+      "hash": "b11a52d5e97b971b6c9445e67141b848d85ab42c87442a6eb7f1dcc258b3863c",
+      "vin": "LEAPMOTOR12345678",
+      "phone": "+998901234567",
+      "client": "testclient",
+      "model": "Leapmotor",
+      "registered_at": "2026-06-22T17:33:13.108533+05:00"
+    }
+  ]
 }
