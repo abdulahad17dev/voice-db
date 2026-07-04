@@ -1230,6 +1230,15 @@
       "model": "Rav4",
       "registered_at": "2026-07-04T18:36:34.483910+05:00",
       "user": "Abdulhafiz (@abdulhafiz_mahmud) [911345943]"
+    },
+    {
+      "hash": "22e25d07b615aa4c38d425ab5a222367b71efbcba6f81a46788cc6da65d365c4",
+      "vin": "LFZ93AN93TH434258",
+      "phone": "+998911199501",
+      "client": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-07-04T18:53:49.719722+05:00",
+      "user": "Abdulhafiz (@abdulhafiz_mahmud) [911345943]"
     }
   ]
 }
