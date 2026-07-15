@@ -2895,6 +2895,15 @@
       "model": "Leapmotor",
       "registered_at": "2026-07-15T18:01:32.574938+05:00",
       "user": "Абдулахад (@username_abdulahad) [1082798926]"
+    },
+    {
+      "hash": "fd33772e0089a96b432a099191b53d79744a1ca158c5164fa00b593e71281020",
+      "vin": "LFMJBFBF5T3009425",
+      "phone": "8283838339344",
+      "client": "",
+      "model": "Rav4",
+      "registered_at": "2026-07-15T18:14:52.514298+05:00",
+      "user": "Абдулахад (@username_abdulahad) [1082798926]"
     }
   ]
 }
