@@ -4425,6 +4425,15 @@
       "model": "LYNCO",
       "registered_at": "2026-08-01T22:52:29.454581+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "d35c266ccffdaafa9467cbd8c7c03e5f75890f9f0933e593bf453f46cf772233",
+      "vin": "LFZ93AN96SH019613",
+      "phone": "920172109319",
+      "client": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-08-02T12:13:21.560800+05:00",
+      "user": "Мухаммадкодир (@muhammmad_16) [8464037568]"
     }
   ]
 }
