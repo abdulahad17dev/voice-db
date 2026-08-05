@@ -4695,6 +4695,15 @@
       "model": "Rav4",
       "registered_at": "2026-08-05T21:12:43.347086+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "ad7c206ac44e6f216d657e2c3314f48c09fb807a7ed227e815466bf8f14164d8",
+      "vin": "LFMKCFBF7T3036031",
+      "phone": "28283894494433",
+      "client": "",
+      "model": "Rav4",
+      "registered_at": "2026-08-05T21:14:38.059700+05:00",
+      "user": "Абдулахад (@git_commit_nothing) [1082798926]"
     }
   ]
 }
