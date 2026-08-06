@@ -4731,6 +4731,15 @@
       "model": "DongFeng",
       "registered_at": "2026-08-06T15:40:04.776498+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "LGXCH4CD9S0599868",
+      "vin": "LGXCH4CD9S0599868",
+      "phone": "+375297034899",
+      "client": "",
+      "model": "BYD",
+      "registered_at": "2026-08-06T17:34:18.272919+05:00",
+      "user": "Abdulhafiz (@abdulhafiz_mahmud) [911345943]"
     }
   ]
 }
