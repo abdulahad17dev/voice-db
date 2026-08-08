@@ -4902,6 +4902,15 @@
       "model": "Deepal",
       "registered_at": "2026-08-08T12:02:05.308184+05:00",
       "user": "Abbos (@Abbos_7R7) [627505856]"
+    },
+    {
+      "hash": "9b6ab6fab91f88a1ffc1bba04435de7461b6307652c1e7863018f0d70664803f",
+      "vin": "LFZ63AV50RD003330",
+      "phone": "28282933939333",
+      "client": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-08-08T12:11:16.563877+05:00",
+      "user": "Абдулахад (@git_commit_nothing) [1082798926]"
     }
   ]
 }
