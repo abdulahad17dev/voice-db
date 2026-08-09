@@ -5055,6 +5055,15 @@
       "model": "Leapmotor",
       "registered_at": "2026-08-09T12:45:40.997756+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "fc1128db405a6f15b4eb3da29c801f5a91bf731b5bf55f71bbca036d469d1271",
+      "vin": "LFZ63AV59SD523175",
+      "phone": "920092002",
+      "client": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-08-09T13:08:23.261708+05:00",
+      "user": "Фирдавс (@Fedukonelove2) [366108462]"
     }
   ]
 }
