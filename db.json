@@ -5262,6 +5262,15 @@
       "model": "Leapmotor",
       "registered_at": "2026-08-10T19:44:45.070002+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "LDP45G966SD119924",
+      "vin": "LDP45G966SD119924",
+      "phone": "13283923291010",
+      "client": "",
+      "model": "DongFeng",
+      "registered_at": "2026-08-10T20:11:53.973102+05:00",
+      "user": "Абдулахад (@git_commit_nothing) [1082798926]"
     }
   ]
 }
