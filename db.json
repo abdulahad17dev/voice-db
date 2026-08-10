@@ -5271,6 +5271,15 @@
       "model": "DongFeng",
       "registered_at": "2026-08-10T20:11:53.973102+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "3BE724F7D938542E",
+      "vin": "3BE724F7D938542E",
+      "phone": "13283931301312931",
+      "client": "",
+      "model": "Deepal",
+      "registered_at": "2026-08-10T20:13:25.101738+05:00",
+      "user": "Абдулахад (@git_commit_nothing) [1082798926]"
     }
   ]
 }
