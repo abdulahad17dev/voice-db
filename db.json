@@ -5604,6 +5604,15 @@
       "model": "DongFeng",
       "registered_at": "2026-08-14T11:47:32.230518+05:00",
       "user": "Мухаммадкодир (@muhammmad_16) [8464037568]"
+    },
+    {
+      "hash": "55b81e1b9226334a2f541368e2506fa5b02b8e65e9c28fa1e524f7ffb20c74d1",
+      "vin": "LFZ93AN97SH406350",
+      "phone": "2838384944433",
+      "client": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-08-14T14:05:18.834681+05:00",
+      "user": "Абдулахад (@git_commit_nothing) [1082798926]"
     }
   ]
 }
