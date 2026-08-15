@@ -5694,6 +5694,15 @@
       "model": "Deepal",
       "registered_at": "2026-08-15T14:47:36.040258+05:00",
       "user": "B. (@Bazarov1122) [6683885323]"
+    },
+    {
+      "hash": "32cfb334a378f8ee5b5c6c1bcbb8842009f4f2090245d549dfbd21c356b87693",
+      "vin": "LFZ93AN92TH434123",
+      "phone": "82829292993339444",
+      "client": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-08-15T15:16:18.167146+05:00",
+      "user": "Абдулахад (@git_commit_nothing) [1082798926]"
     }
   ]
 }
