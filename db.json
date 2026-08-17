@@ -6009,6 +6009,15 @@
       "model": "Leapmotor",
       "registered_at": "2026-08-17T16:45:16.054504+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "LGXC74C44S0167627",
+      "vin": "LGXC74C44S0167627",
+      "phone": "+380503165044",
+      "client": "",
+      "model": "BYD",
+      "registered_at": "2026-08-17T17:15:13.958823+05:00",
+      "user": "Abbos (@Abbos_7R7) [627505856]"
     }
   ]
 }
