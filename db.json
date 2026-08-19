@@ -6261,6 +6261,17 @@
       "model": "Deepal",
       "registered_at": "2026-08-19T15:03:53.168830+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "LS6C3E2S6TF611001",
+      "vin": "LS6C3E2S6TF611001",
+      "phone": "033504254115",
+      "client": "",
+      "model": "Deepal",
+      "registered_at": "2026-08-19T16:49:35.175550+05:00",
+      "user": "SAM (@Samwebdev) [1256840507]",
+      "chat_id": -1004442052701,
+      "chat_title": "Red Team Armenia"
     }
   ]
 }
