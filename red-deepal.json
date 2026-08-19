@@ -80,6 +80,22 @@
       "user_id": 1082798926,
       "user_name": "Абдулахад",
       "username": "@git_commit_nothing"
+    },
+    {
+      "issued_at": "2026-08-19T15:31:09.749835+05:00",
+      "cert_id": "d246ab5e7e526a75",
+      "tier": 5,
+      "tier_name": "RED5 full",
+      "expires": "perpetual",
+      "vin": "LS6C3E2S2SF046874",
+      "model": "S07",
+      "android_id": "4b57827886b76b52",
+      "fingerprint": "Deepal/andes/andes:13/TQ3A.230901.001.C2/1.1.8.66-20251231:user/release-keys",
+      "chat_id": -1003982696019,
+      "chat_title": "Наш RedTeam",
+      "user_id": 1082798926,
+      "user_name": "Абдулахад",
+      "username": "@git_commit_nothing"
     }
   ]
 }
