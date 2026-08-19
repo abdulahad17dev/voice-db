@@ -144,6 +144,23 @@
       "user_id": 1082798926,
       "user_name": "Абдулахад",
       "username": "@git_commit_nothing"
+    },
+    {
+      "issued_at": "2026-08-19T16:34:12.561340+05:00",
+      "cert_id": "c247e396fe438f5e",
+      "tier": 5,
+      "tier_name": "RED5 full",
+      "expires": "perpetual",
+      "product": "Deepal S07",
+      "vin": "LS6C3E2S8SF036592",
+      "model": "S07",
+      "android_id": "0acb09d09c6783f7",
+      "fingerprint": "Deepal/andes/andes:13/TQ3A.230901.001.C2/1.1.8.66-20251231:user/release-keys",
+      "chat_id": -1004429560561,
+      "chat_title": "test activation",
+      "user_id": 1082798926,
+      "user_name": "Абдулахад",
+      "username": "@git_commit_nothing"
     }
   ]
 }
