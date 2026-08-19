@@ -48,6 +48,22 @@
       "user_id": 1082798926,
       "user_name": "Абдулахад",
       "username": "@git_commit_nothing"
+    },
+    {
+      "issued_at": "2026-08-19T14:56:56.527940+05:00",
+      "cert_id": "734349b2b0d146c0",
+      "tier": 2,
+      "tier_name": "RED2 basic",
+      "expires": "perpetual",
+      "vin": "LS6C3E2S6SF034646",
+      "model": "S07",
+      "android_id": "3b8c08fc7b403b78",
+      "fingerprint": "Deepal/andes/andes:13/TQ3A.230901.001.C2/1.1.8.66-20251231:user/release-keys",
+      "chat_id": -1004429560561,
+      "chat_title": "test activation",
+      "user_id": 1082798926,
+      "user_name": "Абдулахад",
+      "username": "@git_commit_nothing"
     }
   ]
 }
