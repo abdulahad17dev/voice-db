@@ -6413,6 +6413,15 @@
       "model": "Rav4",
       "registered_at": "2026-08-20T14:48:40.500241+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "afd68085f0cd50a7296e0ca194f7de98cae499b86a5062c25d89485b64b597dd",
+      "vin": "LFZ93AN93SH418480",
+      "phone": "9273829247",
+      "client": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-08-20T15:36:03.226641+05:00",
+      "user": "Мухаммадкодир (@muhammmad_16) [8464037568]"
     }
   ]
 }
