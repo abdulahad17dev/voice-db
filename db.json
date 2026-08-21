@@ -6598,6 +6598,15 @@
       "user": "SAM (@Samwebdev) [1256840507]",
       "chat_id": -1004442052701,
       "chat_title": "Red Team Armenia"
+    },
+    {
+      "hash": "27b106271a73d122080484c164fc704916d9fda1b077a2bc2df321d9a61b7abd",
+      "vin": "LFZ93AN93TH433238",
+      "phone": "3748483994544",
+      "client": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-08-21T17:36:23.557738+05:00",
+      "user": "Абдулахад (@git_commit_nothing) [1082798926]"
     }
   ]
 }
