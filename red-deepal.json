@@ -433,6 +433,23 @@
       "user_id": 1256840507,
       "user_name": "SAM",
       "username": "@Samwebdev"
+    },
+    {
+      "issued_at": "2026-08-21T14:45:18.763299+05:00",
+      "cert_id": "40b2a8539350f72c",
+      "tier": 5,
+      "tier_name": "RED5 full",
+      "expires": "perpetual",
+      "product": "Deepal S07",
+      "vin": "LS6C3E2S5SA562174",
+      "model": "S07",
+      "android_id": "77b020e5877994ee",
+      "fingerprint": "Deepal/andes/andes:13/TQ3A.230901.001.C2/1.1.8.66-20251231:user/release-keys",
+      "chat_id": -1004429560561,
+      "chat_title": "test activation",
+      "user_id": 1082798926,
+      "user_name": "Абдулахад",
+      "username": "@git_commit_nothing"
     }
   ]
 }
