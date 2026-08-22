@@ -6830,6 +6830,15 @@
       "model": "Leapmotor",
       "registered_at": "2026-08-22T19:46:26.868450+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "LDP45G967TD176151",
+      "vin": "LDP45G967TD176151",
+      "phone": "888888888",
+      "client": "",
+      "model": "DongFeng",
+      "registered_at": "2026-08-22T21:18:09.045359+05:00",
+      "user": "Avzal (@) [1984601901]"
     }
   ]
 }
