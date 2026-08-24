@@ -7170,6 +7170,15 @@
       "model": "Leapmotor",
       "registered_at": "2026-08-24T20:08:15.923213+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "68f03a94f596d75b137279fddb1d36bf80807e5a54a5b489e7cf8db0ff93aff0",
+      "vin": "LGBA13HA3SY166445",
+      "phone": "183273289323131",
+      "client": "",
+      "model": "Nissan",
+      "registered_at": "2026-08-24T22:01:24.729418+05:00",
+      "user": "Абдулахад (@git_commit_nothing) [1082798926]"
     }
   ]
 }
