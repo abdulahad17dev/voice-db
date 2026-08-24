@@ -671,6 +671,23 @@
       "user_id": 1256840507,
       "user_name": "SAM",
       "username": "@Samwebdev"
+    },
+    {
+      "issued_at": "2026-08-24T12:49:44.072038+05:00",
+      "cert_id": "8e90bd6f05b97025",
+      "tier": 2,
+      "tier_name": "RED2 basic",
+      "expires": "perpetual",
+      "product": "Deepal S07",
+      "vin": "LS6C3E2T3TF610963",
+      "model": "S07",
+      "android_id": "1296b091b4420f82",
+      "fingerprint": "Deepal/andes/andes:13/TQ3A.230901.001.C2/1.1.8.66-20251231:user/release-keys",
+      "chat_id": -1004442052701,
+      "chat_title": "Red Team Armenia",
+      "user_id": 1256840507,
+      "user_name": "SAM",
+      "username": "@Samwebdev"
     }
   ]
 }
