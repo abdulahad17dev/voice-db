@@ -739,6 +739,23 @@
       "user_id": 1256840507,
       "user_name": "SAM",
       "username": "@Samwebdev"
+    },
+    {
+      "issued_at": "2026-08-24T14:59:37.720756+05:00",
+      "cert_id": "4c843a136ee89ac7",
+      "tier": 5,
+      "tier_name": "RED5 full",
+      "expires": "perpetual",
+      "product": "Deepal S07",
+      "vin": "LS6C3E2T3SF044267",
+      "model": "S07",
+      "android_id": "736d3552660e91c6",
+      "fingerprint": "Deepal/andes/andes:13/TQ3A.230901.001.C2/1.1.8.66-20251231:user/release-keys",
+      "chat_id": -1004429614846,
+      "chat_title": "Red team & Kirgiztan",
+      "user_id": 1874313715,
+      "user_name": "ayen",
+      "username": "@hhhhholgs_pop"
     }
   ]
 }
