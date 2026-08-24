@@ -756,6 +756,23 @@
       "user_id": 1874313715,
       "user_name": "ayen",
       "username": "@hhhhholgs_pop"
+    },
+    {
+      "issued_at": "2026-08-24T17:24:46.438109+05:00",
+      "cert_id": "658e0ef0039b93d1",
+      "tier": 5,
+      "tier_name": "RED5 full",
+      "expires": "perpetual",
+      "product": "Deepal S07",
+      "vin": "LS6C3E2T5SF040544",
+      "model": "S07",
+      "android_id": "b5c4848b959381b7",
+      "fingerprint": "Deepal/andes/andes:13/TQ3A.230901.001.C2/1.1.8.66-20251231:user/release-keys",
+      "chat_id": -1004429614846,
+      "chat_title": "Red team & Kirgiztan",
+      "user_id": 1874313715,
+      "user_name": "ayen",
+      "username": "@hhhhholgs_pop"
     }
   ]
 }
