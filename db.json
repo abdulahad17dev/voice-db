@@ -7179,6 +7179,15 @@
       "model": "Nissan",
       "registered_at": "2026-08-24T22:01:24.729418+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "LS6C3E2SXTF004096",
+      "vin": "LS6C3E2SXTF004096",
+      "phone": "027203739194",
+      "client": "",
+      "model": "Deepal",
+      "registered_at": "2026-08-25T14:33:15.026080+05:00",
+      "user": "Мухаммадкодир (@muhammmad_16) [8464037568]"
     }
   ]
 }
