@@ -7302,6 +7302,17 @@
       "model": "Leapmotor",
       "registered_at": "2026-08-25T18:55:52.576690+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "LS6C3E2S9TF610991",
+      "vin": "LS6C3E2S9TF610991",
+      "phone": "03350425452",
+      "client": "",
+      "model": "Deepal",
+      "registered_at": "2026-08-25T18:58:52.230232+05:00",
+      "user": "SAM (@Samwebdev) [1256840507]",
+      "chat_id": -1004442052701,
+      "chat_title": "Red Team Armenia"
     }
   ]
 }
