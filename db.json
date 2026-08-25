@@ -7264,6 +7264,15 @@
       "model": "LYNCO",
       "registered_at": "2026-08-25T18:17:00.999461+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "LDP45G964TD185504",
+      "vin": "LDP45G964TD185504",
+      "phone": "2782848484848",
+      "client": "",
+      "model": "DongFeng",
+      "registered_at": "2026-08-25T18:25:09.972623+05:00",
+      "user": "Behruz (@nasrullayev_v) [7659670570]"
     }
   ]
 }
