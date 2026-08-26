@@ -7618,6 +7618,15 @@
       "model": "Nammi",
       "registered_at": "2026-08-26T17:48:16.750585+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "a2175ae7db57382540a278acbe34fcc9eb0005f8dc2953f6031f4bebe596881b",
+      "vin": "LSJWM6393TZ600019",
+      "phone": "27389484748920111",
+      "client": "",
+      "model": "Roewe",
+      "registered_at": "2026-08-26T18:00:24.744666+05:00",
+      "user": "Behruz (@nasrullayev_v) [7659670570]"
     }
   ]
 }
