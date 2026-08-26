@@ -7654,6 +7654,15 @@
       "model": "UniZ",
       "registered_at": "2026-08-26T18:27:15.793125+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "61a5c73a3173f4311203dd8d420c5c34d8f8b0a293938972e2538902f8bcc0b8",
+      "vin": "LSJWM6392TZ599977",
+      "phone": "92925282927382",
+      "client": "",
+      "model": "Roewe",
+      "registered_at": "2026-08-26T18:29:18.309311+05:00",
+      "user": "Behruz (@nasrullayev_v) [7659670570]"
     }
   ]
 }
