@@ -7645,6 +7645,15 @@
       "model": "DongFeng",
       "registered_at": "2026-08-26T18:25:35.256336+05:00",
       "user": "Avzal (@) [1984601901]"
+    },
+    {
+      "hash": "ae74ae39886e87a3a9e26b9850fb5ab3ba26b85d3ec048d539df146b52c837f8",
+      "vin": "LS6C3E0ZXSB393098",
+      "phone": "28283839444445",
+      "client": "",
+      "model": "UniZ",
+      "registered_at": "2026-08-26T18:27:15.793125+05:00",
+      "user": "Абдулахад (@git_commit_nothing) [1082798926]"
     }
   ]
 }
