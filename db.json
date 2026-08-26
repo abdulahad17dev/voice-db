@@ -7609,6 +7609,15 @@
       "model": "Roewe",
       "registered_at": "2026-08-26T17:44:35.372757+05:00",
       "user": "Avzal (@) [1984601901]"
+    },
+    {
+      "hash": "1D556860A5D09C07",
+      "vin": "1D556860A5D09C07",
+      "phone": "193829301324",
+      "client": "",
+      "model": "Nammi",
+      "registered_at": "2026-08-26T17:48:16.750585+05:00",
+      "user": "Абдулахад (@git_commit_nothing) [1082798926]"
     }
   ]
 }
