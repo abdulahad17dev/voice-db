@@ -943,6 +943,23 @@
       "user_id": 1984601901,
       "user_name": "Avzal Ismoilov",
       "username": ""
+    },
+    {
+      "issued_at": "2026-08-26T14:01:33.111259+05:00",
+      "cert_id": "fc01512b6025a8df",
+      "tier": 5,
+      "tier_name": "RED5 full",
+      "expires": "perpetual",
+      "product": "Deepal S07",
+      "vin": "LS6C3E2S9SF040702",
+      "model": "S07",
+      "android_id": "d59bbe6e1ad3d4a8",
+      "fingerprint": "Deepal/andes/andes:13/TQ3A.230901.001.C2/1.1.8.66-20251231:user/release-keys",
+      "chat_id": -1004358175450,
+      "chat_title": "Алмата & Red Team",
+      "user_id": 895108787,
+      "user_name": "Михаил Ш.",
+      "username": "@LLleveJlev_M"
     }
   ]
 }
