@@ -7834,6 +7834,15 @@
       "model": "Deepal",
       "registered_at": "2026-08-27T17:01:10.088059+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "e889f7755dfc5a97bf6fcc5c58abc380506196dcf6df876f3782ba9dfe9e911a",
+      "vin": "LF193AN97TH433422",
+      "phone": "13829894324343",
+      "client": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-08-27T17:10:49.066117+05:00",
+      "user": "Абдулахад (@git_commit_nothing) [1082798926]"
     }
   ]
 }
