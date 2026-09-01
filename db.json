@@ -8869,6 +8869,15 @@
       "model": "Roewe",
       "registered_at": "2026-09-02T00:55:54.286526+05:00",
       "user": "muhammmad_ppp (@muhammmad_ppp) [953941824]"
+    },
+    {
+      "hash": "382a9d4b15e74cc664040d890c0093be6aafcb421e82f312a43b96ebf40ce427",
+      "vin": "LFZ93AN96SH017019",
+      "phone": "38383949943345",
+      "client": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-09-02T01:00:31.166095+05:00",
+      "user": "Абдулахад (@git_commit_nothing) [1082798926]"
     }
   ]
 }
