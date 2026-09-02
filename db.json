@@ -8932,6 +8932,15 @@
       "model": "DongFeng",
       "registered_at": "2026-09-02T11:25:02.073524+05:00",
       "user": "Behruz (@nasrullayev_v) [7659670570]"
+    },
+    {
+      "hash": "da277b8fac92fd21f91ded3ba8b36a4d602e66dfb0f83a002a28a6c5dcedc03a",
+      "vin": "LFZ93AN96SH017019",
+      "phone": "37484484934553",
+      "client": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-09-02T11:42:27.908136+05:00",
+      "user": "Абдулахад (@git_commit_nothing) [1082798926]"
     }
   ]
 }
