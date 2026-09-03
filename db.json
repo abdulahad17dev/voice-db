@@ -9076,6 +9076,15 @@
       "model": "Roewe",
       "registered_at": "2026-09-03T14:27:22.353014+05:00",
       "user": "Behruz (@nasrullayev_v) [7659670570]"
+    },
+    {
+      "hash": "8f5190a3c3f6de6ffbf336bc04e0536648eaed83d4efaa59575b299a81b57411",
+      "vin": "LF163AZ59SD277545",
+      "phone": "374839395544455",
+      "client": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-09-03T14:39:52.162828+05:00",
+      "user": "Абдулахад (@git_commit_nothing) [1082798926]"
     }
   ]
 }
