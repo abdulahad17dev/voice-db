@@ -9130,6 +9130,15 @@
       "model": "Leapmotor",
       "registered_at": "2026-09-03T15:45:16.178538+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "11f2cf37bb3eed6087a4d2b9c8269a690d9cc3db18e4815f0a6e0af1623fe041",
+      "vin": "LSJWM6390TZ611401",
+      "phone": "4578534885223666",
+      "client": "",
+      "model": "Roewe",
+      "registered_at": "2026-09-03T16:07:28.291806+05:00",
+      "user": "Behruz (@nasrullayev_v) [7659670570]"
     }
   ]
 }
