@@ -9310,6 +9310,15 @@
       "model": "Deepal",
       "registered_at": "2026-09-04T19:05:59.853851+05:00",
       "user": "Behruz (@nasrullayev_v) [7659670570]"
+    },
+    {
+      "hash": "eb47b671d3647cf19fd34104f2917513b13025f4b596b90499f8b2406ccc1b30",
+      "vin": "LF193AN9XTH433883",
+      "phone": "28383939394444",
+      "client": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-09-04T20:02:15.011565+05:00",
+      "user": "Абдулахад (@git_commit_nothing) [1082798926]"
     }
   ]
 }
