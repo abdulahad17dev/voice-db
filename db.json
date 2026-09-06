@@ -9490,6 +9490,15 @@
       "model": "Deepal",
       "registered_at": "2026-09-06T00:18:04.954372+05:00",
       "user": "Abdulhafiz (@abdulhafiz_mahmud) [911345943]"
+    },
+    {
+      "hash": "61c1c9d0a26d64a67e094a640fdecaa6172167e68a7822bc04636cb89bfa386b",
+      "vin": "LFZ93AN90RD042533",
+      "phone": "3738484944333",
+      "client": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-09-06T12:08:04.409848+05:00",
+      "user": "Абдулахад (@git_commit_nothing) [1082798926]"
     }
   ]
 }
