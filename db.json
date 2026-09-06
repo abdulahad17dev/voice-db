@@ -9571,6 +9571,15 @@
       "model": "Deepal",
       "registered_at": "2026-09-06T18:56:13.124970+05:00",
       "user": "Avzal (@) [1984601901]"
+    },
+    {
+      "hash": "24d95093e37b2c46ab717af612c7c402056d9cc6c4f0e5b54904eed3cc69ea5e",
+      "vin": "LFZ93AN97TH411968",
+      "phone": "3849494945533",
+      "client": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-09-06T19:33:00.744059+05:00",
+      "user": "Абдулахад (@git_commit_nothing) [1082798926]"
     }
   ]
 }
