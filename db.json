@@ -9625,6 +9625,15 @@
       "model": "Leapmotor",
       "registered_at": "2026-09-07T15:56:13.228370+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "ecc995534466dbc7cc4a447a93d324a22c36e48642544252edb232be20c0a6d5",
+      "vin": "LFZ93AN97TH411968",
+      "phone": "3738939449445554",
+      "client": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-09-07T15:57:18.021512+05:00",
+      "user": "Абдулахад (@git_commit_nothing) [1082798926]"
     }
   ]
 }
