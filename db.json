@@ -9850,6 +9850,15 @@
       "model": "Roewe",
       "registered_at": "2026-09-08T15:59:32.674851+05:00",
       "user": "Behruz (@nasrullayev_v) [7659670570]"
+    },
+    {
+      "hash": "6b9c180b2b6b00c66d0902f47b2adaf80183dda1dca14e1b4e2779ea231b2a86",
+      "vin": "LFZ93AN92TH434171",
+      "phone": "1232453211322",
+      "client": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-09-08T16:50:05.420096+05:00",
+      "user": "Avzal (@) [1984601901]"
     }
   ]
 }
