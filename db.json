@@ -10156,6 +10156,15 @@
       "model": "Deepal",
       "registered_at": "2026-09-09T22:09:49.929684+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "4f1fff018beb27a6225249554ae9fb9aee05629ac40e203996abba42daa8062b",
+      "vin": "LS6C3E2S3SF034944",
+      "phone": "1290242042-4-2",
+      "client": "",
+      "model": "Rav4",
+      "registered_at": "2026-09-09T22:14:03.834642+05:00",
+      "user": "Абдулахад (@git_commit_nothing) [1082798926]"
     }
   ]
 }
