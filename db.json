@@ -10201,6 +10201,15 @@
       "model": "DongFeng",
       "registered_at": "2026-09-10T15:18:57.913622+05:00",
       "user": "Abdulhafiz (@abdulhafiz_mahmud) [911345943]"
+    },
+    {
+      "hash": "01acced441a5d76554c61970cb7af2b8ddea4e0ae862dce6b9e88052358a56a7",
+      "vin": "LF193AN93TH433689",
+      "phone": "1284928041241",
+      "client": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-09-10T15:46:04.695372+05:00",
+      "user": "Абдулахад (@git_commit_nothing) [1082798926]"
     }
   ]
 }
