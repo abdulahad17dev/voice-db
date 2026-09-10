@@ -10237,6 +10237,15 @@
       "model": "Leapmotor",
       "registered_at": "2026-09-10T18:08:12.490100+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "LC0DD4C40S6082376",
+      "vin": "LC0DD4C40S6082376",
+      "phone": "123829424042",
+      "client": "",
+      "model": "BYD",
+      "registered_at": "2026-09-10T18:57:49.986547+05:00",
+      "user": "Абдулахад (@git_commit_nothing) [1082798926]"
     }
   ]
 }
