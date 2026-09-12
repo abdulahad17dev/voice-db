@@ -10435,6 +10435,15 @@
       "model": "Leapmotor",
       "registered_at": "2026-09-12T16:54:34.799666+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "LGXCE4CB4P0399270",
+      "vin": "LGXCE4CB4P0399270",
+      "phone": "2636368282636263",
+      "client": "",
+      "model": "BYD",
+      "registered_at": "2026-09-12T19:38:33.916883+05:00",
+      "user": "Behruz (@nasrullayev_v) [7659670570]"
     }
   ]
 }
