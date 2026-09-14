@@ -1708,6 +1708,23 @@
       "user_id": 328572610,
       "user_name": "Ь Sumarev",
       "username": "@xorsu"
+    },
+    {
+      "issued_at": "2026-09-14T13:58:28.153903+05:00",
+      "cert_id": "27ac06fb36e59b91",
+      "tier": 2,
+      "tier_name": "RED2 basic",
+      "expires": "perpetual",
+      "product": "Deepal S07",
+      "vin": "LS6C3E160TF019615",
+      "model": "SA8295 Cockpit",
+      "android_id": "75cd46c7dc199a86",
+      "fingerprint": "Deepal/andes/andes:13/TQ3A.230901.001.C2/1.1.9.141-20260418:user/release-keys",
+      "chat_id": -5338029128,
+      "chat_title": "Red Activation",
+      "user_id": 328572610,
+      "user_name": "Ь Sumarev",
+      "username": "@xorsu"
     }
   ]
 }
