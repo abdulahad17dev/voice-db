@@ -1963,6 +1963,23 @@
       "user_id": 33823968,
       "user_name": "$",
       "username": "@Qualcommdevs"
+    },
+    {
+      "issued_at": "2026-09-15T11:04:40.524950+05:00",
+      "cert_id": "ba4f6dd98bf69d31",
+      "tier": 2,
+      "tier_name": "RED2 basic",
+      "expires": "perpetual",
+      "product": "Deepal S07",
+      "vin": "LS6C3E2S3SA559418",
+      "model": "S07",
+      "android_id": "ed08b52082c10e07",
+      "fingerprint": "Deepal/andes/andes:13/TQ3A.230901.001.C2/1.1.8.66-20251231:user/release-keys",
+      "chat_id": -5338029128,
+      "chat_title": "Red Activation",
+      "user_id": 1984601901,
+      "user_name": "Avzal Ismoilov",
+      "username": ""
     }
   ]
 }
