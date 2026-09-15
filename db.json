@@ -10851,6 +10851,15 @@
       "model": "Leapmotor",
       "registered_at": "2026-09-15T19:20:31.012782+05:00",
       "user": "Абдулахад (@git_commit_nothing) [1082798926]"
+    },
+    {
+      "hash": "LS6ANE0G9TM058243",
+      "vin": "LS6ANE0G9TM058243",
+      "phone": "383838393944334",
+      "client": "",
+      "model": "Deepal",
+      "registered_at": "2026-09-16T03:18:46.641226+05:00",
+      "user": "Абдулахад (@git_commit_nothing) [1082798926]"
     }
   ]
 }
