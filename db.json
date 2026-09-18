@@ -11085,6 +11085,15 @@
       "model": "DongFeng",
       "registered_at": "2026-09-18T17:19:23.571877+05:00",
       "user": "Behruz (@nasrullayev_v) [7659670570]"
+    },
+    {
+      "hash": "3a470a544df5e60d9d406ef87682a703cb004c789e636b76b9462d9f85042694",
+      "vin": "LFZ93AN9XRD076513",
+      "phone": "62727376378237",
+      "client": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-09-18T17:45:07.387973+05:00",
+      "user": "Behruz (@nasrullayev_v) [7659670570]"
     }
   ]
 }
