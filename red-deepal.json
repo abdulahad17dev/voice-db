@@ -2864,6 +2864,23 @@
       "user_id": 7659670570,
       "user_name": "Behruz",
       "username": "@nasrullayev_v"
+    },
+    {
+      "issued_at": "2026-10-01T14:55:35.639180+05:00",
+      "cert_id": "5fb3cb9b97cb3e8c",
+      "tier": 5,
+      "tier_name": "RED5 full",
+      "expires": "perpetual",
+      "product": "Deepal S07",
+      "vin": "LS6C3E16XSA571604",
+      "model": "S07",
+      "android_id": "5240084d0317e7db",
+      "fingerprint": "Deepal/andes/andes:13/TQ3A.230901.001.C2/1.1.8.66-20251231:user/release-keys",
+      "chat_id": -5338029128,
+      "chat_title": "Red Activation",
+      "user_id": 7659670570,
+      "user_name": "Behruz",
+      "username": "@nasrullayev_v"
     }
   ]
 }
