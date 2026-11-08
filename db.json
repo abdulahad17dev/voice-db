@@ -16113,6 +16113,15 @@
       "model": "Nissan",
       "registered_at": "2026-11-08T10:38:13.137863+05:00",
       "user": "$ (@Qualcommdevs) [33823968]"
+    },
+    {
+      "hash": "5b71845566a9712f42e8b8f18c9a2c3630c9d77aef9ae7950ca504998f273608",
+      "vin": "LGBJ25H85TY084112",
+      "phone": "241381324834",
+      "client": "",
+      "model": "Nissan",
+      "registered_at": "2026-11-08T10:38:32.620206+05:00",
+      "user": "$ (@Qualcommdevs) [33823968]"
     }
   ]
 }
