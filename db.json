@@ -17132,6 +17132,15 @@
       "model": "Nissan",
       "registered_at": "2026-11-17T14:37:07.042911+05:00",
       "user": "Car machine God (@dzhanguz) [8732386289]"
+    },
+    {
+      "hash": "c099678ddc73e0b75d100099749029381a6943c82a416e31ce9621ecc599d0ec",
+      "vin": "LFZ93AN95SH019733",
+      "phone": "707318663234",
+      "client": "",
+      "model": "Leapmotor",
+      "registered_at": "2026-11-17T15:32:55.649583+05:00",
+      "user": "Абдулахад (@abdvlaxad) [1082798926]"
     }
   ]
 }
