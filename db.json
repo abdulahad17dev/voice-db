@@ -17676,6 +17676,15 @@
       "model": "Nissan",
       "registered_at": "2026-11-23T13:32:26.940831+05:00",
       "user": "Car machine God (@dzhanguz) [8732386289]"
+    },
+    {
+      "hash": "4da3ffae6e48c3d6077b31280db4c1c048ae9ec915113198e9ef40f7e46d43b5",
+      "vin": "LS6C3E2SXSF030955",
+      "phone": "931830057128",
+      "client": "",
+      "model": "Rav4",
+      "registered_at": "2026-11-23T13:43:01.155910+05:00",
+      "user": "Абдулахад (@abdvlaxad) [1082798926]"
     }
   ]
 }
