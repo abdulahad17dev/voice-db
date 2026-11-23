@@ -17604,6 +17604,15 @@
       "model": "Nissan",
       "registered_at": "2026-11-23T11:12:24.335603+05:00",
       "user": "Car machine God (@dzhanguz) [8732386289]"
+    },
+    {
+      "hash": "LDP45B967TD193728",
+      "vin": "LDP45B967TD193728",
+      "phone": "3838282372717",
+      "client": "",
+      "model": "DongFeng",
+      "registered_at": "2026-11-23T11:23:44.355100+05:00",
+      "user": "Avzal (@) [1984601901]"
     }
   ]
 }
